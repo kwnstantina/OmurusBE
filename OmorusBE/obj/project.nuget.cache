@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqQIrHSAymDJU419mw3O2pvP/7d8TYhLgQFET7mqfTel8MBPpMUAMJ+3frkBlNJo1ivnEc4jQ8VBlQ8gVj8PMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwnst\\source\\repos\\OmorusBE\\OmorusBE\\OmorusBE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwnst\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kwnst\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kwnst\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kwnst\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kwnst\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kwnst\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
